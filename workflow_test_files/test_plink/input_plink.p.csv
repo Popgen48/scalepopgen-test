@@ -1,0 +1,2 @@
+prefix,bed,bim,fam
+goat,https://raw.githubusercontent.com/Popgen48/scalepopgen-test/main/workflow_test_files/test_plink/goat.bed,https://raw.githubusercontent.com/Popgen48/scalepopgen-test/main/workflow_test_files/test_plink/goat.bim,https://raw.githubusercontent.com/Popgen48/scalepopgen-test/main/workflow_test_files/test_plink/goat.fam
