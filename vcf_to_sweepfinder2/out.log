@@ -1,0 +1,15 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf nda_samples.recode.vcf.gz
+	--counts2
+	--stdout
+
+Using zlib version: 1.2.13
+Warning: Expected at least 2 parts in INFO entry: ID=PR,Number=0,Type=Flag,Description="Provisional reference allele, may not be based on real reference genome">
+After filtering, kept 32 out of 32 Individuals
+Outputting Frequency Statistics...
+After filtering, kept 32822 out of a possible 32822 Sites
+Run Time = 2.00 seconds
